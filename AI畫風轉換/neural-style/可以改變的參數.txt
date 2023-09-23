@@ -1,0 +1,7 @@
+可以依照自己喜好調整，括號記得不要複製
+--iterations 次數(迭代的次數，500-2000次會產生不錯的結果)
+--style-layer-weight-exp 數值(“抽象”程度，默認值為1.0)
+--content-weight-blend 數值(“現實”程度，默認值為1.0)
+--preserve-colors (保留照片的顏色)
+--checkpoint-output --checkpoint-iterations(保存運算過程的圖像)
+

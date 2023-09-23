@@ -1,0 +1,2 @@
+武漢肺炎新聞主要都在報導確診案例 但通報數量跟排除數量其實也是個指標 雖然疾管局每天會統計前一天的總計，但新聞很少報導 所以我自己手工看了新聞稿統計每天的資料，做了個圖表 https://i.imgur.com/R0IyqCJ.png 圖表連結 https://datastudio.google.com/s/p20oU6_Ll2U 這陣子我每天會看疾管局公布的資料去更新 資料來源 https://www.cdc.gov.tw/Bulletin/List/MmgtpeidAR5Ooai4fgHzQ 不過疾管局統計都只有昨日，所以資料會delay一天就是 ____________________________________ 應網友要求增加了每日個案，現在長這樣 https://i.imgur.com/7JVFck8.jpg 已加 我加個案下去了",
+     

@@ -1,0 +1,21 @@
+program: trainLSTM.py
+method: bayes
+metric:
+  goal: minimize
+  name: val_loss
+parameters:
+  layer_size:
+    max: 512
+    min: 64
+    distribution: int_uniform
+  dropout:
+    values: [0.1, 0.2 , 0.3, 0.4, 0.5]
+  learn_rate:
+    values: [0.1, 0.2, 0.3, 0.4]
+  epochs:
+    value: 200
+early_terminate:
+  type: hyperband
+  s: 2
+  eta: 3
+  max_iter: 20
